@@ -19,7 +19,7 @@ I'm a dedicated and passionate student in Computer Science and Engineering with 
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYxaGUzZ20xc3l6amFoM3dlN3lraTMxdDhwMHRib21tOGtpdXNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.gif" height="250">
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 - 🔭 I’m currently working on **Python Projects**
 - 🌱 I’m currently learning **Generative AI & Advanced ML**
 - 👯 I’m looking to collaborate on **Python & Gaming Projects**
@@ -48,4 +48,4 @@ const Himanshi = {
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshi-m&layout=compact&theme=buefy&hide_border=true" /></a>
 <a>
-<img align="center" src="https://github.com/user-attachments/assets/7c19b7d0-15c5-40ee-bdec-b3137a611c40" height="200"></a>
+<img align="right" src="https://github.com/user-attachments/assets/7c19b7d0-15c5-40ee-bdec-b3137a611c40" height="200"></a>
