@@ -46,6 +46,9 @@ const Himanshi = {
 🚀 My contributions!...wait a snake?!
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/2dc0276a-b3b5-4fd5-b20f-3617237eee58)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshi-m&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshi-m&hide_progress=true&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himanshi-m&hide=stars,issues&show=prs_merged_percentage&show_icons=true&hide_rank=true&layout=compact&theme=buefy&hide_border=true" />
 <a>
-<img align="right" src="https://github.com/user-attachments/assets/7c19b7d0-15c5-40ee-bdec-b3137a611c40" height="200"></a>
+<img align="right" src="https://github.com/user-attachments/assets/7c19b7d0-15c5-40ee-bdec-b3137a611c40" height="150"></a></a>
+
+[![An image of @himanshim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshim)](https://holopin.io/@himanshim) 
